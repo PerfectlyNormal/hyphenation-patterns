@@ -1,0 +1,8 @@
+{
+    "name": "hyphenation-patterns",
+    "version": "0.2.1",
+    "description": "Hyphenation patters for use with Hyphen",
+    "author": "Bram Stein <b.l.stein@gmail.com> (http://www.bramstein.com)",
+    "keywords": ["hyphenation", "hypher", "hypher.js", "ender", "jquery"],
+    "main": "./en-us.js"
+}
